@@ -1,0 +1,8 @@
+.background-image {
+    background-image: url(${backgroundImage});
+    background-size: contain; /* Adjust as needed (cover, contain, etc.) */
+    background-repeat: no-repeat; /* Prevent tiling */
+    background-position: center; /* Optional: adjust positioning */
+    height: 80vh; /* Set a height for the main element */
+    opacity: 0.8; /* Adjust opacity to make it faded */
+  }
